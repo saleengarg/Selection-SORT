@@ -1,2 +1,2 @@
 # Selection-SORT
-This is a comparison based sorting algorithm
+This is a comparison based sorting algorithm..
